@@ -14,7 +14,7 @@ public class TravisTest {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-        System.out.println("Travis Test Class");
+        System.out.println("Travis Test Class"); 
 	}
 	
 	public void test(){
