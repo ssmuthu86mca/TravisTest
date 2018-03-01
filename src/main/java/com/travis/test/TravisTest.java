@@ -17,7 +17,8 @@ public class TravisTest {
         System.out.println("Travis Test Class"); 
 	}
 	
-	public void test(){
+	public int test(int i, int j){
 		System.out.println("First Travis Test");
+		return i+j;
 	}
 }
